@@ -4,7 +4,9 @@
 > 3. 三刷 50/100， 之前忘记提交了， 后续慢慢提交
 > [刷题方法](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/) - 2025.8.9
 
-
+# 3. 滑动窗口
+- 不定长滑动窗口
+- 定长滑动串口
 # 参考资料：
 
 - [灵茶山艾府](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)，这是真大牛
