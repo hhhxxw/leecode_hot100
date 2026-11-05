@@ -46,9 +46,9 @@
 
 ---
 
-# Java 代码
+# 代码实现
 
-```
+```java
 import java.util.Stack;
 
 class Solution {
